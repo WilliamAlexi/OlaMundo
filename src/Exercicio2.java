@@ -43,6 +43,7 @@ public class Exercicio2 {
             System.out.println("Deseja fazer outra conta?");
             System.out.println("1 PRA SIM E 2 PRA NÃO!");
             escolha = scanner.nextInt();
+
         }
     }
 }
